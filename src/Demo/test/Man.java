@@ -1,5 +1,5 @@
 package Demo.test;
 
 public class Man {
-	String name;
+	public String name;
 }
